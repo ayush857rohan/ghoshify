@@ -1,7 +1,6 @@
 {
-  "name": "Moshify",
+  "name": "moshify",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Develops01/ghoshify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Develops01/ghoshify/issues"
+  },
+  "homepage": "https://github.com/Develops01/ghoshify#readme",
+  "description": ""
 }
